@@ -1,5 +1,43 @@
-NombreClase KEYWORD1
-Metodo1 KEYWORD2
-Metodo2 KEYWERD2
-Atributo1 LITERAL1
-Atributo1 LITERAL1
+#######################################
+# Syntax Coloring Map For OrbitoMochilaCalidadAire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OrbitoMochilaCalidadAire	KEYWORD1
+BME688	KEYWORD1
+SHT40	KEYWORD1
+SCD40	KEYWORD1
+SGP41	KEYWORD1
+SPS30	KEYWORD1
+ConcentracionMasa	KEYWORD1
+ConcentracionParticulas	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+temperatura	KEYWORD2
+humedad	KEYWORD2
+presion	KEYWORD2
+resistencia_gas	KEYWORD2
+altitud	KEYWORD2
+CO2	KEYWORD2
+Voc	KEYWORD2
+Nox	KEYWORD2
+mc1p0	KEYWORD2
+mc2p5	KEYWORD2
+mc4p0	KEYWORD2
+mc10p0	KEYWORD2
+nc1p0	KEYWORD2
+nc2p5	KEYWORD2
+nc4p0	KEYWORD2
+nc10p0	KEYWORD2
+tipicalSize	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
